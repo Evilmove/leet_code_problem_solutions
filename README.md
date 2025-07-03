@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,8 +59,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
