@@ -47,8 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
