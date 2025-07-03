@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
