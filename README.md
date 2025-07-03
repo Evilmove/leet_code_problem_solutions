@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
