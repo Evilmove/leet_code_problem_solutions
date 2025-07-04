@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0051-n-queens) |
+| [1364-tuple-with-same-product](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/1364-tuple-with-same-product) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/0041-first-missing-positive) |
+| [1364-tuple-with-same-product](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/1364-tuple-with-same-product) |
 ## String
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/Evilmove/leet_code_problem_solutions/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
